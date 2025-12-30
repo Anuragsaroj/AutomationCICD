@@ -2,7 +2,6 @@ package anuragsaroj.pageobject;
 
 import java.util.List;
 
-import org.apache.hc.core5.util.Asserts;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

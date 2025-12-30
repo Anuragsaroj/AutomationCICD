@@ -1,10 +1,6 @@
 package anuragsaroj.pageobject;
 
-import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -12,7 +8,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import anuragsaroj.AbstractComponents.AbstractComponent;
-import net.bytebuddy.asm.Advice.This;
 
 public class OrderPage extends AbstractComponent {
 	WebDriver driver;

@@ -1,6 +1,5 @@
 package anuragsaroj.pageobject;
 
-import org.apache.hc.core5.util.Asserts;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
