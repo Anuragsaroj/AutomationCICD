@@ -23,7 +23,6 @@ public class StandAloneTest {
 		String email = "anuragsaroj@gamil.com";
 		String Password = "Anurag@123";
 		String Product = "ZARA COAT 3";
-	//	String conutry = "India";
 
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
